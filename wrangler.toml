@@ -3,7 +3,3 @@ main = "index.js"
 compatibility_date = "2026-04-18"
 
 workers_dev = false
-
-[route]
-pattern="gh.acc.orllow.cn"
-custom_domain = true
